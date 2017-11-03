@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Data;
-using Cfs.Salesforce.Model.MetaDataAttribute;
-using Oracle.DataAccess.Client;
-using OracleOrm.Models;
-using OracleOrm.Models.MetaDataAttributes;
+using sfdc_loader.MetaDataAttribute;
+
 
 namespace Cfs.Salesforce.Model.SfdcUser
 {

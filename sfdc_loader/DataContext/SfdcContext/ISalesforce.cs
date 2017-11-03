@@ -24,10 +24,5 @@ namespace sfdc_loader.DataContext.SfdcContext
      //       where T : BaseModel;
 
         List<T> GetAccountsFromSalesforce<T>(string recordTypeId);
-
-        List<T> GetAllLeaseAssignmentsToVirtual<T>(string recordTypeId);
-
-        List<SfVirtualParentChildAccount> GetVirtualAccountParentChildList(string customerRecordTypeId, string virtualRecordTypeId);
-
     }
 }

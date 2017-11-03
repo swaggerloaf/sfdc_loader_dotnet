@@ -1,0 +1,2 @@
+C:\projects\sfdc_loader_dotnet\sfdc_loader\obj\Debug\sfdc_loader.csprojResolveAssemblyReference.cache
+C:\projects\sfdc_loader_dotnet\sfdc_loader\obj\Debug\sfdc_loader.csproj.CoreCompileInputs.cache
